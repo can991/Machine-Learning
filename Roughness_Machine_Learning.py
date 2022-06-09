@@ -1,5 +1,5 @@
 #In this project, the relationship between before and after surface roughness parameters were investigated.
-#With this relationship, it aimed to predict Rz_after from Ra_before to eliminate one measuring parameter.
+#With this relationship, it is aimed to predict Rz_after from Ra_before to eliminate one measuring parameter.
 
 import pandas as pd
 import numpy as np
